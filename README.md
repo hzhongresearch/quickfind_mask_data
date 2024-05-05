@@ -4,7 +4,7 @@ This data was used to test the QuickFind algorithm. An algorithm for fast segmen
 
 The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. For example in the RGB-D scenes datset there is an image called: table_small_2_67.png, depth map called: table_small_2_67_depth.png. There is a corresponding image called: table_small_2_67_mask.png in this dataset to show the location of all detectable objects.
 
-QuickFind was created during my PhD. The research paper "Quickfind: Fast and contact-free object detection using a depth sensor" was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. You can send questions to: henry (dot) zhong (at) unswalumni (dot) com . If you use this work please consider citing our paper.
+QuickFind was created during my PhD. The research paper "Quickfind: Fast and contact-free object detection using a depth sensor" was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
 
 ```
 @inproceedings{zhong2016quickfind,
