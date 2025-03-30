@@ -1,6 +1,6 @@
-QuickFind mask data (c) by HENRY ZHONG
+QuickFind mask data Copyright 2016 HENRY ZHONG
 
-To attribute the work, please cite the following publication,
+To attribute the work, please cite the following publication.
 
 Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "QuickFind: Fast and contact-free object detection using a depth sensor." 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops). IEEE, 2016.
 
