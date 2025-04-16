@@ -1,10 +1,12 @@
 # Description of QuickFind mask data
 
-This data was used to test the QuickFind algorithm. An algorithm for fast segmentation and object detect for depth maps. Depth maps are typically produced by Kinect or similar depth sensors. This data is to be used in conjunction with the original RGB-D scenes dataset. This can be found at [link](https://rgbd-dataset.cs.washington.edu/dataset.html). Credit goes to Lai et al. for the original dataset. Please visit their site and credit their paper as well if you use their data along with my amended ground truth data.
+QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful. This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016.
 
-The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. For example in the RGB-D scenes datset there is an image called: table_small_2_67.png, depth map called: table_small_2_67_depth.png. There is a corresponding image called: table_small_2_67_mask.png in this dataset to show the location of all detectable objects.
+The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their [site](https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
 
-QuickFind was created during my PhD. The research paper "Quickfind: Fast and contact-free object detection using a depth sensor" was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
+This is the dataset for QuickFind.
+
+If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2016quickfind,
