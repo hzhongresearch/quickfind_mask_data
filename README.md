@@ -17,7 +17,7 @@ QuickFind was created during my PhD. The research paper "Quickfind: Fast and con
 }
 ```
 
-The code, data and paper can be downloaded at the following link.
+The code, data and paper can be downloaded from the following page.
 
 ```
 https://hzhongresearch.github.io/
