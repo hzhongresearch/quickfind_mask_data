@@ -27,7 +27,7 @@ https://hzhongresearch.github.io/
 
 
 ### Licence
-Copyright 2016 HENRY ZHONG. The data is released under Creative Commons Attribution-ShareAlike 4.0 International Licence. See LICENCE.txt for details.
+Copyright 2016 HENRY ZHONG. The data is released under Creative Commons Attribution 4.0 International Licence. See LICENCE.txt for details.
 
 ### Description of data
 Each file is 24 bit, 3 channel PNG format. It is possible to read the data using C++ with OpenCV. 
